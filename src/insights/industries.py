@@ -6,7 +6,7 @@ def get_unique_industries(path: str) -> List[str]:
 
     Must call `read`
 
-    Parameterss
+    Parameters
     ----------
     path : str
         Must be passed to `read`
